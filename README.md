@@ -1,3 +1,7 @@
+Download Instructions:
+1. Click "CompPlayerDeath.zip"
+2. Click the "..." button in the top right of page.
+3. Select "Download"
 # Comp Player Death
 Creates more comp-oriented death messages for better tracking in game.
 
